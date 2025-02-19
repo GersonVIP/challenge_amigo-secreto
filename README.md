@@ -62,7 +62,3 @@ Para correr este proyecto, solo necesitas un navegador web que soporte HTML, CSS
 
 ## Contribuciones
 Si tienes alguna sugerencia o mejora para este proyecto, siéntete libre de abrir un _issue_ o hacer un _pull request_.
-
-## Licencia
-Este proyecto está bajo la Licencia MIT.
-
