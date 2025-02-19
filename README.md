@@ -59,6 +59,3 @@ Para correr este proyecto, solo necesitas un navegador web que soporte HTML, CSS
 
 ### Resultado del sorteo
 ![Resultado del sorteo](assets/imagen3.png)
-
-## Contribuciones
-Si tienes alguna sugerencia o mejora para este proyecto, siéntete libre de abrir un _issue_ o hacer un _pull request_.
